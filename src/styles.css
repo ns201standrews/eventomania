@@ -1,0 +1,28 @@
+body {
+    font-family: 'Calibri', sans-serif;
+    text-align: center;
+    background-image: url('../src/Photos/main-bg.jpg');
+    color: white
+}
+
+ol {
+    list-style: none;
+}
+
+li {
+    display: inline;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-transform: uppercase;
+    font-weight: bold;  
+}
+
+#header {
+    font-size: 72pt;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
