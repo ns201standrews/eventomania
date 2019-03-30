@@ -4,3 +4,19 @@ body {
     background-image: url('../src/Photos/events-bg.jpg');
     color: white
 } 
+h1 {text-align: center;
+}
+h2 {text-align: center;
+}
+
+#bodyParagraph {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    text-align: justify
+}
+
+#eventInfo{ 
+    text-align: center;
+    line-height: 20%
+}
