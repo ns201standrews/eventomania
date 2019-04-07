@@ -23,6 +23,7 @@ li {
     position: absolute;
     top: 50%;
     left: 25%;
+    right: 25%
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
 }
