@@ -4,15 +4,3 @@ body {
     background-image: url('../src/Photos/viol.jpg');
     color: white
 }
-
-ol {
-    list-style: none;
-}
-
-li {
-    display: inline;
-    margin-right: 50px;
-    margin-left: 50px;
-    text-transform: uppercase;
-    font-weight: bold;  
-}
