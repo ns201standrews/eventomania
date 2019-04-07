@@ -1,6 +1,18 @@
 body {
     font-family: 'Calibri', sans-serif;
     text-align: center;
-    background-image: url('../src/Photos/viol.jpg');
+    background-image: url('../src/Photos/main-bg.jpg');
     color: white
+}
+
+ol {
+    list-style: none;
+}
+
+li {
+    display: inline;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-transform: uppercase;
+    font-weight: bold;  
 }
