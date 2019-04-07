@@ -16,3 +16,16 @@ li {
     text-transform: uppercase;
     font-weight: bold;  
 }
+a {
+    text-decoration: none;
+    color: white
+}
+
+a:visited {
+    color : white
+}
+
+
+#form {
+    width: 50%;
+} 
