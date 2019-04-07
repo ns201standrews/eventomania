@@ -6,19 +6,19 @@ body {
 }
 
 ol {
-    list-style: none;
+    list-style: none; 
 }
 
 li {
     display: inline;
-    margin-right: 40px;
-    margin-left: 40px;
+    margin-right: 50px;
+    margin-left: 50px;
     text-transform: uppercase;
     font-weight: bold;  
 }
 
 #header {
-    font-size: 50pt;
+    font-size: 72pt;
     margin: 0;
     position: absolute;
     top: 50%;
