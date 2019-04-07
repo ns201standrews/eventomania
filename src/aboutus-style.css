@@ -11,14 +11,14 @@ ol {
 
 li {
     display: inline;
-    margin-right: 45px;
-    margin-left: 45px;
+    margin-right: 40px;
+    margin-left: 40px;
     text-transform: uppercase;
     font-weight: bold;  
 }
 
 #header {
-    font-size: 72pt;
+    font-size: 50pt;
     margin: 0;
     position: absolute;
     top: 50%;
