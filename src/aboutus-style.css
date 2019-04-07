@@ -18,11 +18,11 @@ li {
 }
 
 #header {
-    font-size: 55pt;
+    font-size: 40pt;
     margin: 1.5;
     position: absolute;
     top: 50%;
-    left: 25%;
+    left: 15%;
     right: 25%
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
