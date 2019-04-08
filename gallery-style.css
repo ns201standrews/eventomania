@@ -7,6 +7,7 @@ body {
 
 ol {
     list-style: none;
+    font-size: medium
 }
 
 li {
@@ -14,9 +15,9 @@ li {
     margin-right: 50px;
     margin-left: 50px;
     text-transform: uppercase;
-    font-weight: bold;  
+    font-weight: bold; 
+    font-size: larger 
 }
-* {box-sizing:border-box}
 
 /* Slideshow container */
 .slideshow-container {
