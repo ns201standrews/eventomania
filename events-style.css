@@ -32,6 +32,11 @@ a {
     color: white
 }
 
+#bodyform{
+    text-align: center;
+    line-height: 30%   
+}
+
 a:visited {
     color : white
 }
