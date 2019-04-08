@@ -24,7 +24,16 @@ li {
     margin-top: 55px;
     text-align: justify
 }
-
+/* Caption text */
+.text {
+    color: #f2f2f2;
+    font-size: 15px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+  }
 #eventInfo{ 
     text-align: center;
     line-height: 40%
